@@ -710,6 +710,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    background-color: #D97C5F;
 }
 
 h2 {
@@ -831,6 +832,12 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.webp");
+}
+
+.contraste {
+    background-color: #D97C5F;
+    width: 50%;
+    margin-left: 25%;
 }
 
 @media (max-width: 1024px) {
