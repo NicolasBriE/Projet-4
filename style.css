@@ -698,6 +698,11 @@ p {
     font-family: "Open Sans";
 }
 
+.pretpour {
+    color: #FFFFFF;
+    font-style: bolder;
+}
+
 .cta-hero {
     margin-top: 22px;
     color: #FFFFFF !important;
@@ -788,10 +793,6 @@ h4 {
     font-weight: bolder;
 }
 
-.pretpour {
-    color: #FFFFFF;
-    font-style: bolder;
-}
 
 .btn-atomic-tangerine {
     background: #F3976C;
