@@ -1085,6 +1085,10 @@ h4 {
         width: 180px;
         height: 320px;
     }
+
+    .img-responsive portfolio-thumb {
+        width: 570px;
+    }
 }
 
 
@@ -1101,8 +1105,5 @@ h4 {
         text-align: center;
     }
 
-    .img-responsive portfolio-thumb {
-        width: 570px;
-    }
 
 }
