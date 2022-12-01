@@ -1087,6 +1087,8 @@ h4 {
     }
 }
 
+
+
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
@@ -1098,4 +1100,9 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+
+    .img-responsive portfolio-thumb {
+        width: 570px;
+    }
+
 }
