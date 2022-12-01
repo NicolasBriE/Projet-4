@@ -755,6 +755,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 570px;
 }
 
 .portfolio-row {
@@ -1086,9 +1087,6 @@ h4 {
         height: 320px;
     }
 
-    .img-responsive portfolio-thumb {
-        width: 570px;
-    }
 }
 
 
