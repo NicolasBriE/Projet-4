@@ -845,7 +845,9 @@ h4 {
     background-color: #CC4E13;
     width: 50%;
     margin-left: 25%;
-    border-radius: 50%;
+    border-radius: 30%;
+    height: 40px;
+    padding: 10px;
 }
 
 @media (max-width: 1024px) {
