@@ -700,7 +700,7 @@ p {
 
 .pretpour {
     color: #FFFFFF !important;
-    font-style: bolder;
+    font-weight: bolder;
 }
 
 .cta-hero {
@@ -845,8 +845,8 @@ h4 {
 
 .contraste {
     background-color: #CC4E13;
-    width: 50%;
-    margin-left: 25%;
+    width: max-content;
+    margin: auto;
     border-radius: 30%;
     padding: 10px;
 }
